@@ -26,7 +26,7 @@ git clone https://github.com/PLP-MERN-Stack-Development/week-2-express-js-assign
 cd week-2-express-js-assignment-anyangumajimbo
 npm install
 npm start
-````
+
 
 > Server will run on [http://localhost:3000](http://localhost:3000)
 
@@ -167,16 +167,4 @@ curl -H "x-api-key: 123456" http://localhost:3000/api/products
 * Week 2 Express.js Assignment
 
 ````
-
----
-
-### ✅ Next Step:
-1. Replace your current `README.md` with this one
-2. Customize `<your-repo-url>` if needed
-3. Commit and push to GitHub:
-
-```bash
-git add README.md
-git commit -m "Update final README.md for submission"
-git push
 
